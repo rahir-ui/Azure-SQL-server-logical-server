@@ -1,0 +1,1 @@
+# Azure-SQL-server-logical-server
